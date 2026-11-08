@@ -22,8 +22,8 @@ The objective of this project is to model and predict whether a specific batch o
 - **Target Variable:** `target` (Binary flag: `1` if quality score >= 7 representing "Good", `0` if quality score < 7 representing "Bad").
 
 ## c. GitHub Repository & Live Deployment Links
-- **GitHub Repository Link:** [INSERT_YOUR_GITHUB_REPO_URL_HERE]
-- **Live Streamlit App Link:** [INSERT_YOUR_STREAMLIT_COMMUNITY_CLOUD_URL_HERE]
+- **GitHub Repository Link:** [(https://github.com/jitucvrce/Machine-Learning-Assignment-for-classification/)]
+- **Live Streamlit App Link:** [(https://machine-learning-assignment-for-classification.streamlit.app/)]
 
 ## d. Models Used & Evaluation Metric Matrices
 
