@@ -14,7 +14,12 @@ import joblib
 # 1. Download and load the pre-screened dataset
 print("Fetching Wine Quality Dataset...")
 url = "https://uci.edu"
-df = pd.read_csv(url, sep=';')
+
+
+# For semicolon-separated files
+df = pd.read_csv('C:\\Users\\bbich\\Downloads\\wine+quality\\winequality-white.csv', sep=';')
+
+
 
 # 2. Convert to a binary classification problem (Quality >= 7 is 'Good' (1), else 'Bad' (0))
 df['target'] = (df['quality'] >= 7).astype(int)
