@@ -75,7 +75,7 @@ if uploaded_file is not None:
                 plt.xlabel('Predicted Label')
                 st.pyplot(fig)
                 
-            st.separator()
+            st.divider()
             st.subheader("📋 Detailed Classification Text Report")
             report_dict = metrics.classification_report(y_test, y_pred, output_dict=True)
             st.json(report_dict)
