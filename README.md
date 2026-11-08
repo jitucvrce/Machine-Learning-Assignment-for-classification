@@ -46,3 +46,7 @@ The objective of this project is to model and predict whether a specific batch o
 **Support Vector Machine (SVM)** is selected as the winner for this specific dataset. It achieves the peak validation Accuracy and Area Under the ROC Curve (AUC), maintaining the highest functional precision boundary without overfitting.
 # Machine-Learning-Assignment-for-classification
 Machine Learning Assignment for classification
+
+#### Prayogsala Execution status
+<img width="958" height="533" alt="ML-Assignment-Execution" src="https://github.com/user-attachments/assets/9fc72261-ab63-4719-9837-cdef52520161" />
+
